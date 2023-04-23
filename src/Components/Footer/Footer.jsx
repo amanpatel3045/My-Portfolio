@@ -38,7 +38,7 @@ function Footer() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/amanpatel3045/Portfolio"
+            href="https://github.com/amanpatel3045/My-Portfolio"
           >
             <button>Source Code</button>
           </a>

@@ -42,6 +42,46 @@ const BridgeTwo = styled.div`
 `;
 
 let projectArray = [
+
+
+  {
+    img: "https://i.postimg.cc/g2wVj7Xx/Screenshot-618.png",
+    title: "Blogging Application",
+    description:
+      " A blog web application where user can create,read,update,delete their blog. ",
+    techStack: [
+      "React",
+      "Redux",
+      "Express.js",
+      "Node.js",
+      "MongoDB"
+    ],
+    repoLink:
+      "https://github.com/amanpatel3045/Blog-Web-App",
+    type: "Blog website created by self by using MERN Stack (Indivisual Project)",
+    demoLink: "https://aman-blog-app.netlify.app/",
+    blogLink: "#",
+    features: [
+      "   A user can Sign in or Sign up.",
+      "User can Create blog.",
+      "User can Read the blogs.",
+      "User can Edit their own blog.",
+      "User can Edit their own profile.",
+      "User can delete their blog.",
+    ],
+  },
+
+
+
+
+
+
+
+
+
+
+
+
   {
     img: "https://i.imgur.com/TodbMCU.png",
     title: "Overstock ",
